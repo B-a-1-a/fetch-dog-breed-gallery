@@ -1,7 +1,7 @@
 # Fetch Dog Breed Gallery
 
 ## Overview
-This project utilizes the [Dog API](https://thedogapi.com/) to display a gallery of dog breed images. The user can select one or more dog breeds, and images of the selected breeds will be displayed in the gallery. The project also includes additional features like search functionality, theme switching (light, dark, and dog-themed), and the ability to randomly select breeds. It is built using React, TypeScript, Next.js, and shadcn/ui (UI tool to build custom components per project)
+This project utilizes the [Dog API](https://dog.ceo/dog-api/documentation/) to display a gallery of dog breed images. The user can select one or more dog breeds, and images of the selected breeds will be displayed in the gallery. The project also includes additional features like search functionality, theme switching (light, dark, and dog-themed), and the ability to randomly select breeds. It is built using React, TypeScript, Next.js, and shadcn/ui (UI tool to build custom components per project)
 
 ## Features
 - **Breed Selection**: Users can select one or multiple dog breeds, and the gallery will display images of the selected breeds.
@@ -49,7 +49,7 @@ Follow these to run the project locally on your machine.
    ```
 
 5. **Open the project in your browser**:
-   Once the server is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the application. (If it is not in 3000 check your terminal as to what Next.js is using)
+   Once the server is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the application. (If it is not in 3000 check your terminal as to what port Next.js is using)
 
 ## Project Structure
 ```
