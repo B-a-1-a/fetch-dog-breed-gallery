@@ -75,3 +75,6 @@ other files omitted for simplicity
 - **Tailwind CSS**: For styling and responsive design.
 - **shadcn**: Open Source framework for reusable UI components.
 - **Dog API**: To fetch the list of dog breeds and breed images.
+
+## License
+MIT License.
